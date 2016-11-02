@@ -1,0 +1,13 @@
+*.idea
+*.idea/
+.idea/
+.gitkeep
+node_modules
+vendors
+err.log
+out.log
+access.log
+api-doc
+Makefile
+.DS_Store
+npm-debug.log
